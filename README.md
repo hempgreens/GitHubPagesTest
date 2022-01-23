@@ -6,5 +6,4 @@
 > git push -u origin main
 ```
 
-URL = `https://hempgreens.github.io/GitHubPagesTest/`
 [https://hempgreens.github.io/GitHubPagesTest/](https://hempgreens.github.io/GitHubPagesTest/)
